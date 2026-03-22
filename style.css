@@ -23,7 +23,8 @@ a:hover{
 /* Set the font family for any h1, h2, or h3 heading */
 h1,
 h2,
-h3
+h3,
+h4,
 {
   font-family: "Playfair Display", Times, serif;
   text-align: center;
@@ -58,6 +59,7 @@ img {
 
 hr {
   border: 1px solid black;
+  align: center
 }
 
 /* Add your solution below */
