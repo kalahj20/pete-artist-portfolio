@@ -24,7 +24,7 @@ a:hover{
 h1,
 h2,
 h3,
-h4
+h4,
 {
   font-family: "Playfair Display", Times, serif;
   text-align: center;
@@ -59,7 +59,9 @@ img {
 
 hr {
   border: 1px solid black;
-  align: center;
+  width: 50%;
+  margin-left: auto
+  margin-right: auto;
 }
 
 /* Add your solution below */
