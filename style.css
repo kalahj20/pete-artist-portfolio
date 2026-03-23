@@ -59,7 +59,7 @@ img {
 
 hr {
   border: 1px solid black;
-  text-align: center;
+  align: center;
 }
 
 /* Add your solution below */
@@ -76,4 +76,7 @@ hr {
 }
 h3{
   font-size: 15px;
+}
+h4{
+  text-align: center
 }
