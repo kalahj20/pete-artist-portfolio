@@ -47,3 +47,8 @@
 * **Gemini/ChatGPT:** Used for generating creative placeholder text (the "Vaporware" descriptions). This allowed for rapid prototyping of the layout and typography without waiting for final copy.
 * **Replit AI:** Assisted in troubleshooting the `flex-direction` logic for mobile responsiveness when transitioning from a row to a column layout.
 * **Justification:** These tools were used to supplement technical execution and creative brainstorming; all structural logic, final design decisions, and code integrations were performed independently.
+
+
+## 6. Deployment Histories
+<img width="1252" height="662" alt="Screenshot 2026-04-01 at 10 35 33 PM" src="https://github.com/user-attachments/assets/e69b601f-bcd0-473a-820a-6f0a621879b8" />
+<img width="452" height="366" alt="Screenshot 2026-04-01 at 10 37 18 PM" src="https://github.com/user-attachments/assets/a387bfa3-54cc-4702-99fc-33252715c355" />
